@@ -5,14 +5,14 @@ I consider myself an eternal learner, highly interested in roles and projects re
 <table>
 	<tr>
     		<td>
-			<a href="https://twitter.com/jtorrex/">
+			<a href="https://twitter.com/xjtorrex/">
 				<img align="center" src="https://github-readme-stats.vercel.app/api?username=jtorrex&show_icons=true" />
 			</a>
 		</td>
     	</tr>
 	<tr>
         	<td>
-			<a href="https://twitter.com/jtorrex/">
+			<a href="https://twitter.com/xjtorrex/">
 				<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jtorrex"></img>
 			</a>
 		</td>
