@@ -1,1 +1,1 @@
-Platform Engineer with 9+ years of experience across HPC, Kubernetes and Cloud infrastructures. Evolved from Linux systems and HPC foundations to DevOps tooling to build HPC-Cloud-Kubernetes platforms for enabling scientific and AI workloads at scale.
+Infrastructure/Platform Engineer with 9+ years of experience across HPC, Kubernetes and Cloud. Evolved from Linux systems and HPC foundations to DevOps tooling to build HPC-Cloud-Kubernetes platforms for enabling scientific and AI workloads at scale.
